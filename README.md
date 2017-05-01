@@ -10,6 +10,7 @@ $ open public/index.html
 $ npm install
 $ ./node_modules/.bin/webpack-dev-server --inline --hot
 ```
+open http://localhost:8080/
 
 ### Build
 ```sh
