@@ -22,7 +22,7 @@ require('./raw.tag');
     </div>
   </li>
   <hr>
-  <script>
+  <script type="es6">
     this.showsBody = false
 
     this.toggle = (e) => {

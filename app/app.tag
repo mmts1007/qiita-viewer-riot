@@ -12,7 +12,7 @@ require('./item.tag');
       </ul>
     </div>
   </div>
-  <script>
+  <script type="es6">
     var self = this
     this.items = null
 
