@@ -17,7 +17,7 @@ module.exports = {
         test: /\.tag$/,
         enforce: 'pre',
         exclude: /node_modules/,
-        loader: 'riotjs-loader',
+        loader: 'riot-tag-loader',
         options: { type: 'none' }
       },
       {
